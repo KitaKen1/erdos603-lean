@@ -2,6 +2,8 @@
 
 This repository contains a Lean formalization project for Erdős Problem 603.
 
+**Lean4Web Demo:** [Open in Lean 4](https://live.lean-lang.org/#project=mathlib-v4.29.1&url=https%3A%2F%2Fraw.githubusercontent.com%2FKitaKen1%2Ferdos603-lean%2Frefs%2Fheads%2Fmain%2FErdos603CountableSequenceLean4Web.lean)
+
 ## Overview
 
 Erdős Problem 603 admits at least two natural readings.
