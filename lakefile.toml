@@ -1,0 +1,11 @@
+name = "erdos603_countable_sequence"
+version = "0.1.0"
+defaultTargets = ["Erdos603CountableSequence"]
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "v4.29.1"
+
+[[lean_lib]]
+name = "Erdos603CountableSequence"
